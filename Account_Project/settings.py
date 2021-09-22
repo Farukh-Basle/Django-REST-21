@@ -86,7 +86,7 @@ WSGI_APPLICATION = 'Account_Project.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'nth_rest9amdb_accountdb',
+        'NAME': 'accountdb',
         'USER' : 'root',
         'PASSWORD' : 'root',
     }
